@@ -36,5 +36,6 @@ var cnames_active = {
     "saturation": "saturation.github.io/www",
     "selectric": "lcdsantos.github.io/jQuery-Selectric",
     "tagster": "goschevski.github.io/tagster",
-    "zodiac": "indus.github.io/Zodiac"
+    "zodiac": "indus.github.io/Zodiac",
+    "happy": "e24.github.io/happy"
 }
